@@ -1,0 +1,41 @@
+{
+  "name" : "blueblazeassociates/import-users-from-csv-with-meta",
+  "description" : "This plugins allows to import users using CSV files to WP database automatically",
+  "type" : "wordpress-plugin",
+  "homepage" : "http://www.codection.com",
+  "license" : [
+    "GPL-2.0+"
+  ],
+  "authors" : [{
+    "name" : "codection",
+    "homepage" : "https://codection.com",
+    "role" : "Author/Creator"
+  }, {
+    "name" : "Ed Gifford",
+    "homepage" : "http://www.blueblazeassociates.com",
+    "role" : "Composer-fier",
+    "email" : "egifford@blueblazeassociates.com"
+    }
+  ],
+  "replace" : {
+    "wpackagist-plugin/import-users-from-csv-with-meta" : "1.5.1",
+    "wpackagist-plugin/import-users-from-csv-with-meta" : "1.6.4"
+  },
+  "keywords" : [
+    "csv",
+    "custom",
+    "delimiter",
+    "editor",
+    "fields",
+    "import",
+    "importer",
+    "insert",
+    "meta",
+    "meta-data",
+    "profile",
+    "update",
+    "user",
+    "user-meta",
+    "users"
+  ]
+}
